@@ -5,11 +5,11 @@ A Booloean information retrieval system with spelling correction and wildcard qu
 
 1. Returns list of documents that satisfies the boolean query. The boolean operations allowed are AND, OR and NOT.
 2. Preprocessing of text in the documents includes:
-  1. Stopword Removal
-  2. Lemmatization
+    1. Stopword Removal
+    2. Lemmatization
 3. Other features are:
-  1. Wildcard Query Handling 
-  2. Spelling Correction
+    1. Wildcard Query Handling 
+    2. Spelling Correction
 
 ## Tech-Stack Used
 
