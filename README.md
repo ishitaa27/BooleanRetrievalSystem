@@ -17,7 +17,7 @@ A Booloean information retrieval system with spelling correction and wildcard qu
 2. NLTK Library
 
 ## Set-Up Procedures
-* Download the data-set from this link : 
+* Download the data-set from this link : [Data-set](https://github.com/ishitaa27/BooleanRetrievalSystem/blob/main/shakespeares-works_TXT_FolgerShakespeare.zip)
 * Unzip the file and upload all the documents in a folder called 'Assignment' on your google drive
 * Run each cell on google colab
 
