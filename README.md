@@ -21,6 +21,18 @@ A Booloean information retrieval system with spelling correction and wildcard qu
 * Unzip the file and upload all the documents in a folder called 'Assignment' on your google drive
 * Open the [IR.pynb file](https://github.com/ishitaa27/BooleanRetrievalSystem/blob/main/IR.ipynb) on google colab and run each cell.
 
+### Test Cases
+* Some possible test cases that can be run to test the code:
+```
+William and barbara
+```
+```
+Will* and not barb*
+```
+```
+billiam and barbara
+```
+
 ## Team Members
 
 * Ishita Menon
